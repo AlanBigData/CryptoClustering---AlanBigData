@@ -15,6 +15,6 @@ The dataset used in this project contains historical price data of various crypt
 
 ## Files
 - `data/`: Directory containing the dataset files.
-- `cryptocurrency_price_prediction.ipynb`: Jupyter notebook containing the main code for the project.
+- `Crypto_Clustering.ipynb`: Jupyter notebook containing the main code for the project.
 
 
